@@ -1,0 +1,89 @@
+D:\THOMAS(DATA)\Tetris\bin\Debug\net6.0-windows\Tetris.exe
+D:\THOMAS(DATA)\Tetris\bin\Debug\net6.0-windows\Tetris.deps.json
+D:\THOMAS(DATA)\Tetris\bin\Debug\net6.0-windows\Tetris.runtimeconfig.json
+D:\THOMAS(DATA)\Tetris\bin\Debug\net6.0-windows\Tetris.dll
+D:\THOMAS(DATA)\Tetris\bin\Debug\net6.0-windows\Tetris.pdb
+D:\THOMAS(DATA)\Tetris\obj\Debug\net6.0-windows\Tetris.csproj.AssemblyReference.cache
+D:\THOMAS(DATA)\Tetris\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\THOMAS(DATA)\Tetris\obj\Debug\net6.0-windows\App.g.cs
+D:\THOMAS(DATA)\Tetris\obj\Debug\net6.0-windows\Tetris_MarkupCompile.cache
+D:\THOMAS(DATA)\Tetris\obj\Debug\net6.0-windows\Tetris_MarkupCompile.lref
+D:\THOMAS(DATA)\Tetris\obj\Debug\net6.0-windows\MainWindow.baml
+D:\THOMAS(DATA)\Tetris\obj\Debug\net6.0-windows\Tetris.g.resources
+D:\THOMAS(DATA)\Tetris\obj\Debug\net6.0-windows\Tetris.GeneratedMSBuildEditorConfig.editorconfig
+D:\THOMAS(DATA)\Tetris\obj\Debug\net6.0-windows\Tetris.AssemblyInfoInputs.cache
+D:\THOMAS(DATA)\Tetris\obj\Debug\net6.0-windows\Tetris.AssemblyInfo.cs
+D:\THOMAS(DATA)\Tetris\obj\Debug\net6.0-windows\Tetris.csproj.CoreCompileInputs.cache
+D:\THOMAS(DATA)\Tetris\obj\Debug\net6.0-windows\Tetris.dll
+D:\THOMAS(DATA)\Tetris\obj\Debug\net6.0-windows\refint\Tetris.dll
+D:\THOMAS(DATA)\Tetris\obj\Debug\net6.0-windows\Tetris.pdb
+D:\THOMAS(DATA)\Tetris\obj\Debug\net6.0-windows\Tetris.genruntimeconfig.cache
+D:\THOMAS(DATA)\Tetris\obj\Debug\net6.0-windows\ref\Tetris.dll
+D:\THOMAS(DATA)\C#\Tetris\bin\Debug\net6.0-windows\Tetris.exe
+D:\THOMAS(DATA)\C#\Tetris\bin\Debug\net6.0-windows\Tetris.deps.json
+D:\THOMAS(DATA)\C#\Tetris\bin\Debug\net6.0-windows\Tetris.runtimeconfig.json
+D:\THOMAS(DATA)\C#\Tetris\bin\Debug\net6.0-windows\Tetris.dll
+D:\THOMAS(DATA)\C#\Tetris\bin\Debug\net6.0-windows\Tetris.pdb
+D:\THOMAS(DATA)\C#\Tetris\obj\Debug\net6.0-windows\Tetris.csproj.AssemblyReference.cache
+D:\THOMAS(DATA)\C#\Tetris\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\THOMAS(DATA)\C#\Tetris\obj\Debug\net6.0-windows\App.g.cs
+D:\THOMAS(DATA)\C#\Tetris\obj\Debug\net6.0-windows\Tetris_MarkupCompile.cache
+D:\THOMAS(DATA)\C#\Tetris\obj\Debug\net6.0-windows\Tetris_MarkupCompile.lref
+D:\THOMAS(DATA)\C#\Tetris\obj\Debug\net6.0-windows\MainWindow.baml
+D:\THOMAS(DATA)\C#\Tetris\obj\Debug\net6.0-windows\Tetris.g.resources
+D:\THOMAS(DATA)\C#\Tetris\obj\Debug\net6.0-windows\Tetris.GeneratedMSBuildEditorConfig.editorconfig
+D:\THOMAS(DATA)\C#\Tetris\obj\Debug\net6.0-windows\Tetris.AssemblyInfoInputs.cache
+D:\THOMAS(DATA)\C#\Tetris\obj\Debug\net6.0-windows\Tetris.AssemblyInfo.cs
+D:\THOMAS(DATA)\C#\Tetris\obj\Debug\net6.0-windows\Tetris.csproj.CoreCompileInputs.cache
+D:\THOMAS(DATA)\C#\Tetris\obj\Debug\net6.0-windows\Tetris.dll
+D:\THOMAS(DATA)\C#\Tetris\obj\Debug\net6.0-windows\refint\Tetris.dll
+D:\THOMAS(DATA)\C#\Tetris\obj\Debug\net6.0-windows\Tetris.pdb
+D:\THOMAS(DATA)\C#\Tetris\obj\Debug\net6.0-windows\Tetris.genruntimeconfig.cache
+D:\THOMAS(DATA)\C#\Tetris\obj\Debug\net6.0-windows\ref\Tetris.dll
+D:\THOMAS(DATA)\C#\Tetris\obj\Debug\net6.0-windows\Launcher.g.cs
+D:\THOMAS(DATA)\C#\Tetris\obj\Debug\net6.0-windows\Launcher.baml
+D:\Thomas\Code\C#\Tetris\bin\Debug\net6.0-windows\Tetris.exe
+D:\Thomas\Code\C#\Tetris\bin\Debug\net6.0-windows\Tetris.deps.json
+D:\Thomas\Code\C#\Tetris\bin\Debug\net6.0-windows\Tetris.runtimeconfig.json
+D:\Thomas\Code\C#\Tetris\bin\Debug\net6.0-windows\Tetris.dll
+D:\Thomas\Code\C#\Tetris\bin\Debug\net6.0-windows\Tetris.pdb
+D:\Thomas\Code\C#\Tetris\obj\Debug\net6.0-windows\Tetris.csproj.AssemblyReference.cache
+D:\Thomas\Code\C#\Tetris\obj\Debug\net6.0-windows\Launcher.g.cs
+D:\Thomas\Code\C#\Tetris\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Thomas\Code\C#\Tetris\obj\Debug\net6.0-windows\App.g.cs
+D:\Thomas\Code\C#\Tetris\obj\Debug\net6.0-windows\Tetris_MarkupCompile.cache
+D:\Thomas\Code\C#\Tetris\obj\Debug\net6.0-windows\Tetris_MarkupCompile.lref
+D:\Thomas\Code\C#\Tetris\obj\Debug\net6.0-windows\Launcher.baml
+D:\Thomas\Code\C#\Tetris\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Thomas\Code\C#\Tetris\obj\Debug\net6.0-windows\Tetris.g.resources
+D:\Thomas\Code\C#\Tetris\obj\Debug\net6.0-windows\Tetris.GeneratedMSBuildEditorConfig.editorconfig
+D:\Thomas\Code\C#\Tetris\obj\Debug\net6.0-windows\Tetris.AssemblyInfoInputs.cache
+D:\Thomas\Code\C#\Tetris\obj\Debug\net6.0-windows\Tetris.AssemblyInfo.cs
+D:\Thomas\Code\C#\Tetris\obj\Debug\net6.0-windows\Tetris.csproj.CoreCompileInputs.cache
+D:\Thomas\Code\C#\Tetris\obj\Debug\net6.0-windows\Tetris.dll
+D:\Thomas\Code\C#\Tetris\obj\Debug\net6.0-windows\refint\Tetris.dll
+D:\Thomas\Code\C#\Tetris\obj\Debug\net6.0-windows\Tetris.pdb
+D:\Thomas\Code\C#\Tetris\obj\Debug\net6.0-windows\Tetris.genruntimeconfig.cache
+D:\Thomas\Code\C#\Tetris\obj\Debug\net6.0-windows\ref\Tetris.dll
+D:\Thomas\Code\C#\Visual Studio\Tetris\bin\Debug\net6.0-windows\Tetris.exe
+D:\Thomas\Code\C#\Visual Studio\Tetris\bin\Debug\net6.0-windows\Tetris.deps.json
+D:\Thomas\Code\C#\Visual Studio\Tetris\bin\Debug\net6.0-windows\Tetris.runtimeconfig.json
+D:\Thomas\Code\C#\Visual Studio\Tetris\bin\Debug\net6.0-windows\Tetris.dll
+D:\Thomas\Code\C#\Visual Studio\Tetris\bin\Debug\net6.0-windows\Tetris.pdb
+D:\Thomas\Code\C#\Visual Studio\Tetris\obj\Debug\net6.0-windows\Launcher.g.cs
+D:\Thomas\Code\C#\Visual Studio\Tetris\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Thomas\Code\C#\Visual Studio\Tetris\obj\Debug\net6.0-windows\App.g.cs
+D:\Thomas\Code\C#\Visual Studio\Tetris\obj\Debug\net6.0-windows\Tetris_MarkupCompile.cache
+D:\Thomas\Code\C#\Visual Studio\Tetris\obj\Debug\net6.0-windows\Tetris_MarkupCompile.lref
+D:\Thomas\Code\C#\Visual Studio\Tetris\obj\Debug\net6.0-windows\Launcher.baml
+D:\Thomas\Code\C#\Visual Studio\Tetris\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Thomas\Code\C#\Visual Studio\Tetris\obj\Debug\net6.0-windows\Tetris.g.resources
+D:\Thomas\Code\C#\Visual Studio\Tetris\obj\Debug\net6.0-windows\Tetris.GeneratedMSBuildEditorConfig.editorconfig
+D:\Thomas\Code\C#\Visual Studio\Tetris\obj\Debug\net6.0-windows\Tetris.AssemblyInfoInputs.cache
+D:\Thomas\Code\C#\Visual Studio\Tetris\obj\Debug\net6.0-windows\Tetris.AssemblyInfo.cs
+D:\Thomas\Code\C#\Visual Studio\Tetris\obj\Debug\net6.0-windows\Tetris.csproj.CoreCompileInputs.cache
+D:\Thomas\Code\C#\Visual Studio\Tetris\obj\Debug\net6.0-windows\Tetris.dll
+D:\Thomas\Code\C#\Visual Studio\Tetris\obj\Debug\net6.0-windows\refint\Tetris.dll
+D:\Thomas\Code\C#\Visual Studio\Tetris\obj\Debug\net6.0-windows\Tetris.pdb
+D:\Thomas\Code\C#\Visual Studio\Tetris\obj\Debug\net6.0-windows\Tetris.genruntimeconfig.cache
+D:\Thomas\Code\C#\Visual Studio\Tetris\obj\Debug\net6.0-windows\ref\Tetris.dll
